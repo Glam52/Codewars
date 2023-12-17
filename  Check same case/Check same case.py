@@ -7,4 +7,4 @@ def same_case(a, b):
         return 1
     else:
         return 0
-    pass
+    pass # новый комментарий
