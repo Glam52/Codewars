@@ -3,4 +3,4 @@ def greet(name):        # добавлена функция по условию
     pass
 
 ####
-print(greet('Max'))
+greet('Max')
