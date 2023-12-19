@@ -1,3 +1,3 @@
 def positive_sum(arr):
-    # Your code here
+    count = 0
     return 0
