@@ -5,4 +5,8 @@ def positive_sum(arr):
             count += i
         else:
             count += 0
-    return 0
+    return count
+
+# тест
+print(positive_sum([1,-2,3,4,5]))
+print(positive_sum([-1,2,3,4,-5]))
